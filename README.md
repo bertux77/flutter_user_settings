@@ -1,16 +1,10 @@
-# flutter_settings
+# PREFERENCIAS DE USUARIO GUARDADAS EN DISPOSITIVO MOVIL
 
-A new Flutter project.
+Con interface para cambiar las preferencias a tiempo real entre una versión oscura y clara.
+donde se guardan las preferencias del usuario en memoria del dispositivo movil.
 
-## Getting Started
+Aplicacion desarrollada con Flutter por Precursor Sinaptico by Alberto Carrión 
+desarrollador freelance full stack 
+Mas info en 
 
-This project is a starting point for a Flutter application.
-
-A few resources to get you started if this is your first Flutter project:
-
-- [Lab: Write your first Flutter app](https://flutter.dev/docs/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://flutter.dev/docs/cookbook)
-
-For help getting started with Flutter, view our
-[online documentation](https://flutter.dev/docs), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
+https://precursorsinaptico.com
